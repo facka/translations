@@ -1,0 +1,19 @@
+
+### Build generated
+dist/
+test/coverage/
+
+### Package manager generated
+bower_components/
+node_modules/
+
+### Logs
+*.log
+
+### OS generated files
+.DS_Store
+
+### IDE generated files
+.idea/
+
+.tmp/
