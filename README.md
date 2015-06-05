@@ -21,7 +21,7 @@ In this porject I will explain how to achieve translations for a web page in an 
 
 2.  Create a GULP task
  * Get the example code from the repo. It's a nodeJS script that parses the json and builds a file for each language in JSON format
- * The format is like this: 
+ * The format of the result file is like this: 
 
 ```javascript
 { 
@@ -30,7 +30,7 @@ In this porject I will explain how to achieve translations for a web page in an 
   ...
 }
 ```
-
+ * Edit the GULP tasks translate.js if you add more languages in the spreadsheet or if you want to change the destination folder.
 
 
 
