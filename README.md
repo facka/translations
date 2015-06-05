@@ -11,7 +11,9 @@ In this porject I will explain how to achieve translations for a web page in an 
 
 ## Steps
 
-1. Create a google spreadsheet and make it public to the web. [How to publish a doc]( https://support.google.com/docs/answer/37579?hl=en)
+1. Create a google spreadsheet
+ * Publish it to the web. [How to publish a doc]( https://support.google.com/docs/answer/37579?hl=en)
+ * Make the spreadsheet public in to the Web by Sharing it and enabling access to anyone.
  * Get spreadsheet example from [ here ] (https://docs.google.com/spreadsheets/d/1I09LNjHawLEXulHbL_cYC5xk4UbcRakZ_O3CuvOs6Jg)
  * The javascript format is [here] (https://docs.google.com/spreadsheets/d/1I09LNjHawLEXulHbL_cYC5xk4UbcRakZ_O3CuvOs6Jg/gviz/tq). We will use this file to create our own JSON format later, using a gulp task.
 
