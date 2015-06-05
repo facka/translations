@@ -1,1 +1,12 @@
-{"Code":"French","main.login":"S'identifier","main.ok":"Ok","main.cancel":"Annuler","main.name":"Nom","main.surname":"Nom de famille","main.email":"Email","main.phone":"Téléphone","main.signin":"S'inscrire","main.logout":"Se Déconnecter"}
+{
+  "Code": "French",
+  "main.login": "S'identifier",
+  "main.ok": "Ok",
+  "main.cancel": "Annuler",
+  "main.name": "Nom",
+  "main.surname": "Nom de famille",
+  "main.email": "Email",
+  "main.phone": "Téléphone",
+  "main.signin": "S'inscrire",
+  "main.logout": "Se Déconnecter"
+}

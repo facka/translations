@@ -1,1 +1,12 @@
-{"Code":"English","main.login":"Login","main.ok":"Ok","main.cancel":"Cancel","main.name":"Name","main.surname":"Surname","main.email":"Email","main.phone":"Phone","main.signin":"Sign In","main.logout":"Logout"}
+{
+  "Code": "English",
+  "main.login": "Login",
+  "main.ok": "Ok",
+  "main.cancel": "Cancel",
+  "main.name": "Name",
+  "main.surname": "Surname",
+  "main.email": "Email",
+  "main.phone": "Phone",
+  "main.signin": "Sign In",
+  "main.logout": "Logout"
+}

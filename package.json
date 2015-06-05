@@ -4,7 +4,8 @@
   "contributors": "Facundo Crego <facundo.crego@gmail.com>",
   "dependencies": {
     "eval": "^0.1.0",
-    "request": "^2.57.0"
+    "request": "^2.57.0",
+    "require-dir": "~0.3.0"
   },
   "devDependencies": {
     "gulp": "~3.8.10",

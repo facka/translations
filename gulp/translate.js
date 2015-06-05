@@ -33,7 +33,7 @@ function columnToJSON(rows, column) {
        result[row[0].v] = row[column].v;
     }
   }
-  return JSON.stringify(result);
+  return JSON.stringify(result,null,2);
 }
 
 gulp.task('translate', function () {
