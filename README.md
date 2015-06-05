@@ -7,6 +7,7 @@ In this porject I will explain how to achieve translations for a web page in an 
 ## Technologies Used
 * Google spreadsheets
 * Gulp
+* NodeJS
 * AngularJS
 
 ## Steps
