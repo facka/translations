@@ -8,7 +8,6 @@ In this porject I will explain how to achieve translations for a web page in an 
 * Google spreadsheets
 * Gulp
 * NodeJS
-* AngularJS
 
 ## Steps
 
